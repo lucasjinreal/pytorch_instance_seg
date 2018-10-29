@@ -4,7 +4,7 @@
     <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ignoredPackages">
         <value>
-          <list size="120">
+          <list size="124">
             <item index="0" class="java.lang.String" itemvalue="functools32" />
             <item index="1" class="java.lang.String" itemvalue="testpath" />
             <item index="2" class="java.lang.String" itemvalue="pickleshare" />
@@ -125,6 +125,10 @@
             <item index="117" class="java.lang.String" itemvalue="ipython" />
             <item index="118" class="java.lang.String" itemvalue="universe" />
             <item index="119" class="java.lang.String" itemvalue="hypothesis" />
+            <item index="120" class="java.lang.String" itemvalue="appdirs" />
+            <item index="121" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="122" class="java.lang.String" itemvalue="packaging" />
+            <item index="123" class="java.lang.String" itemvalue="pyparsing" />
           </list>
         </value>
       </option>
